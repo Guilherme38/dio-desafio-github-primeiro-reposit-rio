@@ -1,4 +1,5 @@
 Comandos
 git status = conferir o status da pasta
 git add . = adiciona todos os arquivos no controle de versão
-git commit -m "mensagem importante para o commit" 
+git commit -m "mensagem importante para o commit"
+git push origin main = envia tudo para o Github
