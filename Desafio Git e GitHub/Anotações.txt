@@ -1,0 +1,4 @@
+Comandos
+git status = conferir o status da pasta
+git add . = adiciona todos os arquivos no controle de versão
+git commit -m "mensagem importante para o commit" 
