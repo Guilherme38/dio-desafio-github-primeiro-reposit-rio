@@ -1,0 +1,3 @@
+Tags para listas:
+ul - sem ordem específica (aparece com bullets)
+ol - ordenada (com números)
